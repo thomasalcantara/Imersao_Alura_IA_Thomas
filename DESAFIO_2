@@ -1,0 +1,123 @@
+Para a realização do desafio 2, pensei em pegar 3 exemplos de descrição de vagas que existem hoje no Grupo Boticário na área de dados e perguntei para o Gemini qual seria a resposta dele considerando a minha posição como Governança de Cultura de Dados (Crédito e Fraudes)
+Para que isso fosse possível realizei o Prompt abaixo no Google IA Studio:
+  Pergunta: Para atuar como um Especialista de Cultura de Dados e Experiência do Usuário, como é as atividades do dia-a-dia? O que deve ser feito ? Quais são as habilidades necessárias ?
+
+Resposta:
+RESPONSABILIDADES E ATRIBUIÇÕES
+- Exercitar e melhorar constantemente a jornada do colaborador dentro do ecossistema da jornada de uso de dados considerando nossas ferramentas, plataformas, processos e hub de conteúdo
+- Gerenciar, priorizar, garantir a entrega e analisar o impacto das melhorias junto aos times de PMs e desenvolvimento.
+- Apoiar na condução das pesquisas de usabilidade, NPS, CSAT das nossas ferramentas e plataformas.
+- Construir personas de dados.
+- Entender com profundidade a estratégia de dados para melhor tomada de decisão e priorização dos temas.
+- Planejar, alinhar com stakeholders e acompanhar plano de comunicação das diferentes ações de Cultura e Governança de Dados.
+- Transitar entre comunicação executiva/tática e operacional, conforme o público
+- Desenvolver materiais, fluxos e processos que suportem a execução das diretrizes e boas práticas para produção de conteúdo de Dados
+- Participar ativamente da educação dos pontos focais de Dados de comunicação e produção de conteúdo
+- Acompanhamento e validação de arquitetura de informação, fluxos e wireframes, protótipos e textos junto aos desenvolvedores.
+- Mensurar as melhorias, comunicações e entregas para a tomada de decisões.
+- Trazer metodologias de UX e gerenciamento de produto para o dia a dia do time.
+- Estar confortável com um ambiente dinâmico e em constante transformação.
+- Temos uma cultura viva em que mudanças acontecem e continuarão acontecendo.
+- Criar alianças e criar parcerias com diversas áreas internas buscando garantir o sucesso e impacto de seus projetos.
+- Curtir a jornada de construção das ações desde a v0.
+
+REQUISITOS E QUALIFICAÇÕES
+- Domínio de ferramentas do Design Thinking (storyboard, mapas de empatia, jornada do usuário);
+- Capacidade de análise de dados (Heatmaps, Testes A/B e outros experimentos).
+- Experiência com metodologias ágeis (Scrum, kanban, etc) e práticas de gestão de produtos.
+- Perfil analítico, criativo e comunicativo. Habilidades escritas, verbais e de apresentação;
+- Conhecimento sobre acessibilidade em comunicação.Ser uma pessoa curiosa e apaixonada pelo aprendizado;
+
+Diferencial: Conhecimento em gerenciamento de projetos.
+Diferencial: Conhecimento de SQL em BigQuery
+Diferencial: Conhecimento em GCP (Google Cloud Platform) e plataformas de BI (Tableau e/ou Looker Studio).
+
+Pergunta: Para atuar como um Especialista I - Customer Service - Foco em Dados, como é as atividades do dia-a-dia? O que deve ser feito ? Quais são as habilidades necessárias ?
+
+Resposta:
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+- Executar e orientar equipe com relação ao processo de atendimento da carteira e atendimento aos Franqueados (Customer Care).
+- Lidera implementações de melhorias e identifica impactos no atendimento do pedidos e nos processos de Customer Care (relacionamento com franqueados), aproveitamento de oportunidades, ou antecipando-se às restrições.
+- Promove a solução de problemas no processo de Customer Services.
+- Agilidade na resolução de desafios de curto prazo, atuando de maneira responsiva, transparente e colaborativa com as interfaces.
+- Promove padronização de processos entre os canais atendidos, liderando melhorias incrementais conforme necessidade de cada unidade.
+- Lidera tecnicamente as ações com outras áreas para decisões estratégicas de produtos/campanhas/produção, propondo soluções para atingir as metas.
+
+REQUISITOS E QUALIFICAÇÕES
+- Experiência com análise, construção e gestão de dados;
+- Formação superior completa/ áreas de exatas é um diferencial;
+- Conhecimento de Big Query, SQL, Looker Studio, Vizzlo, Tableau;
+- Conhecimento Ferramentas Google em geral e Pacote Office;
+- Conhecimento SAP ECC e S4;
+
+Pergunta: Para atuar como um Especialista I de Dados | Varejo, como é as atividades do dia-a-dia? O que deve ser feito ? Quais são as habilidades necessárias ?
+
+Resposta:
+RESPONSABILIDADES E ATRIBUIÇÕES
+• Irá atuar com BI & Analytics no segmento de varejo;
+• Construir jornadas de dados através da coleta, transformação e visualização de informações;
+• Desenvolver relatórios e painéis de indicadores identificando oportunidades a partir da análise dos dados, gerando insights para o negócio;
+• Fomentar a cultura Data Driven, orientando, capacitando e engajando os demais membros dos times nas competências de análise de dados;
+• Conduzir análises ad-hoc para o diagnóstico de problemas e elaboração de recomendações para o negócio;
+• Automatizar processos e rotinas, através da criação e manutenção de pipelines de dados;
+• Garantir as boas práticas e padrões de desenvolvimento das soluções analíticas;
+• Refinar as iniciativas priorizadas junto às áreas de negócio, levantando requisitos, necessidades e dependências.
+
+REQUISITOS E QUALIFICAÇÕES
+
+• Proficiência em linguagem SQL;
+• Experiência em ferramentas de preparação de dados (ETL);
+• Experiência no desenvolvimento de dashboards utilizando Tableau, Looker Studio ou similares;
+• Experiência na manipulação de grandes conjuntos de dados e no uso de bancos de dados (preferencialmente Google Big Query);
+• Habilidade de comunicação;
+• Experiência em construção e apresentação de materiais executivos para gerências e diretorias.
+
+Diferencial: Linguagens de programação (Python, R, etc.);
+Diferencial:  Experiência com utilização de dados de vendas/varejo.
+
+Pergunta: Para atuar como um Especialista de Governança e Cultura de Dados (Crédito e Fraudes), como é as atividades do dia-a-dia? O que deve ser feito ? Quais são as habilidades necessárias ?
+
+Resposta:
+
+SEGUE ABAIXO RESPOSTA OBTIDA:
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Apoiar na estruturação e implementação das iniciativas e projetos de Cultura e Governança de Dados para as áreas de Crédito e Fraudes, alinhado à estratégia global de dados, e garantindo que atendam às necessidades dos times;
+Atuar no levantamento de necessidades, alinhamento de expectativas e comunicação com as áreas de negócio e TI para os temas relacionados a Cultura e Governança de Dados;
+Apoiar no processo de priorização das demandas de Crédito e Fraudes para a construção do Roadmap de dados, incluindo projetos de implementação das políticas e diretrizes, necessidades de capacitação e ferramentas;
+Colaborar na criação e manutenção de políticas e diretrizes de dados com o time central de Governança de Dados, adaptadas às necessidades das áreas de Crédito e Fraudes;
+Apoiar o desenho e a implementação do processo de gestão de qualidade dos dados, incluindo indicadores, monitoramento e planos de ação;
+Apoiar no desenho e implementação dos Comitês de Governança de Dados das áreas de Crédito e Fraudes, e na gestão das atividades e entregas dos Comitês.
+REQUISITOS E QUALIFICAÇÕES
+Graduação completa em Administração, Engenharia, Economia, Estatística ou áreas correlatas;
+Experiência sólida com Governança de Dados e/ou Gestão de Projetos;
+Conhecimento em modelagem conceitual, lógica e física de dados;
+Conhecimento em ferramentas de qualidade de dados e modelagem de dados;
+Experiência com metodologias ágeis e tradicionais de gestão de projetos;
+Excelente capacidade de comunicação e relacionamento interpessoal;
+Capacidade de influenciar pessoas e trabalhar de forma colaborativa;
+Inglês intermediário.
+Diferencial: Experiência nas áreas de Crédito e/ou Fraudes.
+Diferencial: Conhecimento em LGPD e outras regulamentações do mercado financeiro.
+Diferencial: Conhecimento em SQL.
+Pergunta: Para atuar como um(a) Especialista de Segurança da Informação Pleno, como é as atividades do dia-a-dia? O que deve ser feito ? Quais são as habilidades necessárias ?
+Resposta:
+RESPONSABILIDADES E ATRIBUIÇÕES
+Responder a incidentes de segurança da informação, coletando evidências, investigando e remediando incidentes cibernéticos, e garantindo a segurança dos ativos de informação;
+Conduzir a resposta a incidentes de segurança, incluindo análise forense digital, resposta a malware e outras ameaças cibernéticas, trabalhando em conjunto com as equipes internas e fornecedores externos para mitigar riscos e garantir a continuidade dos negócios;
+Executar atividades de Threat Hunting, buscando proativamente por ameaças cibernéticas, identificando indicadores de comprometimento e analisando dados de segurança para detectar e responder a atividades maliciosas;
+Desenvolver e manter scripts e ferramentas de automação de segurança, melhorando a eficiência e a eficácia das operações de segurança;
+Criar e revisar relatórios de incidentes de segurança, documentando as descobertas, as ações tomadas e as lições aprendidas para melhorar os processos de segurança;
+Colaborar com as equipes de TI e segurança para desenvolver e implementar controles de segurança, garantindo a proteção dos ativos de informação;
+Manter-se atualizado sobre as últimas tendências e ameaças de segurança cibernética, pesquisando e avaliando novas tecnologias e soluções de segurança.
+REQUISITOS E QUALIFICAÇÕES
+Experiência anterior em resposta a incidentes de segurança, Threat Hunting e análise forense digital;
+Sólidos conhecimentos em sistemas operacionais, redes, protocolos de segurança e tecnologias de segurança;
+Familiaridade com ferramentas de segurança, como SIEM, EDR, firewalls e soluções de detecção de intrusão;
+Habilidade em scripting e automação de tarefas de segurança;
+Excelentes habilidades de comunicação e capacidade de trabalhar em equipe;
+Certificações de segurança, como CISSP, CISM, CEH ou SANS GIAC, são um diferencial.
+Diferencial: Experiência em cloud computing (AWS, Azure ou GCP).
+Pergunta: Para atuar como um(a) Analista de Inteligência de Mercado Sênior - Pricing, como é as atividades do dia-a-dia? O que deve ser feito ? Quais são as habilidades necessárias ?
+Resposta:
